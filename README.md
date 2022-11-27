@@ -25,5 +25,8 @@ These are the dummy or simple projects I've done in my fields of interest
    5. Chapter 4: GAME DESIGN 
       - Making the game with Python 
       - MPU-6050 data to Game input
+
+![Arduino Setup](https://i.postimg.cc/GcFZJ5TJ/setup.jpg)
+![Pong Game](https://i.postimg.cc/Qtz6ChB7/game.png)
          
  - **image mask detection** (python)
