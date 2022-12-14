@@ -46,3 +46,12 @@ These are the dummy or simple projects I've done in my fields of interest
 ![mask detection - masked](https://i.postimg.cc/3NXLvdfz/sample-3.jpg)
 ![mask detection - un-masked](https://i.postimg.cc/NjzxL6f5/sample-1.jpg)
 ![cube detection](https://i.postimg.cc/JhH5XsGK/pic1-centeroid.png)
+
+
+ - **ROS - turtlesim** (python):
+   This main goal of this project was to write your own name with the turtles in ROS - turtlesim. 
+   1. Installing Linux OS
+   2. Installing ROS 
+   3. Writing python script
+
+![turtlesim](https://i.postimg.cc/Bv5Fv9FJ/arvin.png)
