@@ -26,6 +26,7 @@ These are the dummy or simple projects I've done in my fields of interest
       - Making the game with Python 
       - MPU-6050 data to Game input
 
+
 ![Arduino Setup](https://i.postimg.cc/GcFZJ5TJ/setup.jpg)
 ![Pong Game](https://i.postimg.cc/Qtz6ChB7/game.png)
          
@@ -55,3 +56,7 @@ These are the dummy or simple projects I've done in my fields of interest
    3. Writing python script
 
 ![turtlesim](https://i.postimg.cc/Bv5Fv9FJ/arvin.png)
+<<<<<<< HEAD
+
+- **AlexNet and LeNet image classification** (Python)
+  This is about image augmentation and addressing the issue of overfitting. here's the link to the more complete version in google colab [link](https://drive.google.com/drive/folders/1OlC9Xag2sO-WHsOWN0EBGszFOEVHk4yR?usp=share_link)
