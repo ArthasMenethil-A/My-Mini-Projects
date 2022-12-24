@@ -26,6 +26,7 @@ These are the dummy or simple projects I've done in my fields of interest
       - Making the game with Python 
       - MPU-6050 data to Game input
 
+
 ![Arduino Setup](https://i.postimg.cc/GcFZJ5TJ/setup.jpg)
 ![Pong Game](https://i.postimg.cc/Qtz6ChB7/game.png)
          
